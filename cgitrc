@@ -26,7 +26,7 @@ readme=:INSTALL.md
 readme=:INSTALL.txt
 readme=:INSTALL
 
-strict-export=refs/heads/master
+strict-export=refs/heads/main
 remove-suffix=1
 
 virtual-root=/
